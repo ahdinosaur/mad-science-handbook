@@ -22,6 +22,7 @@ more at
 - [module best practices](https://github.com/mattdesl/module-best-practices)
 - [NodeSchool](http://nodeschool.io/)
 - [browserify handbook](https://github.com/substack/browserify-handbook)
+- [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 - [stream handbook](https://github.com/substack/stream-handbook)
 - [introduction to reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
@@ -31,13 +32,22 @@ more at
 
 ## projects
 
-- [#stackgl](http://stack.gl/)
-- [#scuttlebutt](https://github.com/ssbc/docs)
-- [#dat](https://github.com/maxogden/dat)
-- [#level](https://github.com/level)
-- [#scijs](https://github.com/scijs)
-- [#virtualdom](https://github.com/Matt-Esch/virtual-dom)
+- [stackgl](http://stack.gl/)
+- [ssb](https://github.com/ssbc/docs)
+- [dat](https://github.com/maxogden/dat)
+- [level](https://github.com/level)
+- [scijs](https://github.com/scijs)
+- [virtualdom](https://github.com/Matt-Esch/virtual-dom)
 
-if you want to upskill, follow the progress of projects you enjoy, dive into where you think you can contribute.
+if you want to upskill, follow the progress of projects you enjoy, dive into where you think you can contribute. :)
 
 > if you see something that needs doing, it's your job
+
+## resources
+
+- [knowledge](https://github.com/yoshuawuyts/knowledge)
+- [graphics](https://github.com/mattdesl/graphics-resources)
+
+more at
+
+- [awesome](https://github.com/sindresorhus/awesome)
