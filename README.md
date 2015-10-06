@@ -25,6 +25,7 @@ more at
 - [task automation with npm run](http://substack.net/task_automation_with_npm_run)
 - [stream handbook](https://github.com/substack/stream-handbook)
 - [introduction to reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [cyber wizard institute](https://www.youtube.com/channel/UCzDHOdHNitu70iiva25rV7w)
 
 more at
 
