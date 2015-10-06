@@ -48,6 +48,7 @@ if you want to upskill, follow the progress of projects you enjoy, dive into whe
 
 - [knowledge](https://github.com/yoshuawuyts/knowledge)
 - [graphics](https://github.com/mattdesl/graphics-resources)
+- [conflict-free replicated data types](https://github.com/pfraze/crdt_notes)
 
 more at
 
