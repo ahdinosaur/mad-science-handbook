@@ -22,8 +22,11 @@ more at
 - [module best practices](https://github.com/mattdesl/module-best-practices)
 - [NodeSchool](http://nodeschool.io/)
 - [browserify handbook](https://github.com/substack/browserify-handbook)
-- [task automation with npm run](http://substack.net/task_automation_with_npm_run)
-- [stream handbook](https://github.com/substack/stream-handbook)
+- [npm scripts](http://substack.net/task_automation_with_npm_run)
+- [streams](https://nodejs.org/api/stream.html)
+  - [stream faq](https://github.com/stephenplusplus/stream-faqs)
+  - [stream adventure](https://github.com/substack/stream-adventure)
+  - [stream handbook](https://github.com/substack/stream-handbook)
 - [introduction to reactive programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [cyber wizard institute](https://www.youtube.com/channel/UCzDHOdHNitu70iiva25rV7w)
 
