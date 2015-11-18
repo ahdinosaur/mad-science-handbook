@@ -49,9 +49,12 @@ if you want to upskill, follow the progress of projects you enjoy, dive into whe
 
 ## resources
 
-- [knowledge](https://github.com/yoshuawuyts/knowledge)
-- [graphics](https://github.com/mattdesl/graphics-resources)
-- [conflict-free replicated data types](https://github.com/pfraze/crdt_notes)
+- [@yoshuawuyts on knowledge](https://github.com/yoshuawuyts/knowledge)
+- [@mattdesl on graphics](https://github.com/mattdesl/graphics-resources)
+- computational geometry
+  - [@mikolalysenko's course](https://www.youtube.com/playlist?list=PLESnaHRvLM-72xIXf8dL2EOqN8UgAZMj7)
+  - [@mikolalysenko's recommendations](https://github.com/mikolalysenko/ama/issues/10)
+- [@pfraze on Conflict-free Replicated Data Types](https://github.com/pfraze/crdt_notes)
 
 more at
 
