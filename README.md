@@ -55,6 +55,11 @@ if you want to upskill, follow the progress of projects you enjoy, dive into whe
 
 > if you see something that needs doing, it's your job
 
+more at
+
+- [awesome-nodejs#mad-science](https://github.com/sindresorhus/awesome-nodejs#mad-science)
+- [awesome-mad-science](https://github.com/feross/awesome-mad-science)
+
 ## resources
 
 - [@yoshuawuyts on knowledge](https://github.com/yoshuawuyts/knowledge)
