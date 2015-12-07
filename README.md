@@ -14,6 +14,7 @@ this is a **living document**
 - [Feynman's Nobel Amibition](http://www.physics.ohio-state.edu/~kilcup/262/feynman.html)
 - "[I want programming computers to be like coloring with crayons and playing with duplo blocks](https://news.ycombinator.com/item?id=4310723)"
 - "[If you only do things that are certain to succeed, then you're only going to be doing very obvious things.](https://twitter.com/wjagodfrey/status/659274018478886912)"
+- [In the Beginning was the Command Line](https://www.ocf.berkeley.edu/~mwilliams/reading/misc/command.txt)
 
 more at
 
