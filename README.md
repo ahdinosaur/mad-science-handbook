@@ -37,7 +37,7 @@ more at
 - [cyber wizard institute](https://www.youtube.com/channel/UCzDHOdHNitu70iiva25rV7w)
 - "[clean as you cook](https://twitter.com/dominictarr/status/640678314168848384)"
 - "[whether it's friends, work, activities, etc, a friend taught me to do what brings you energy, and cut what depletes your energy.](https://twitter.com/ahdinosaur/status/647352127916916736)"
-
+- [Art of JavaScript I/O](https://vimeo.com/album/3281289/)
 
 more at
 
