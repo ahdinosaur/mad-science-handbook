@@ -6,10 +6,10 @@ for a great book on functional programming, see [the Structure and Interpretatio
 
 ## abstractions
 
-- function: input -> output
-- callback: data at a later time
-- stream: data over time
 - type: define shape of data
+- function: data input -> data output
+- effects: data, error, continuation
+- stream: data over time
 
 ## function
 
@@ -37,7 +37,13 @@ these ideas.
 
 > - [Alan Kay, origin of OOP, on "prototypes vs classes"](http://lists.squeakfoundation.org/pipermail/squeak-dev/1998-October/017019.html)
 
-## callback
+## effects
+
+- [`continuable`](https://github.com/Raynos/continuable)
+- [`promise`](https://domenic.me/2012/10/14/youre-missing-the-point-of-promises/)
+- [elm architecture / side effects examples](https://medium.com/@yelouafi/elm-architecture-side-effect-examples-with-snabbdom-and-jsx-3732219d9995#.qu4ic8x0z)
+- [`tom`](https://github.com/gcanti/tom)
+- [don't fear the monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 
 ## stream
 
