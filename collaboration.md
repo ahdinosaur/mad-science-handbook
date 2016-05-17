@@ -1,5 +1,7 @@
 # how to open source
 
+**follow the modules**
+
 ## open source is personal
 
 from my personal experience, open source is about:
