@@ -128,6 +128,7 @@ bad examples:
 
 - [cobudget/cobudget-ui](https://github.com/cobudget/cobudget-ui/issues/272)
 - [mmckegg/loop-drop-app#186](https://github.com/mmckegg/loop-drop-app/issues/186)
+- [imakewebthings/waypoints#553(comment)](https://github.com/imakewebthings/waypoints/pull/553#issuecomment-300451124)
 
 ## how to report a bug
 
